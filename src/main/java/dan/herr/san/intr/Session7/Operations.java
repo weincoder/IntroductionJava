@@ -1,4 +1,4 @@
-package dan.herr.san.intr.Sesion7;
+package dan.herr.san.intr.Session7;
 
 public class Operations {
     /* Las funciones nos sirven para desarrollar código

@@ -1,5 +1,5 @@
-package dan.herr.san.intr.Sesion7;
-import dan.herr.san.intr.Sesion7.Operations;
+package dan.herr.san.intr.Session7;
+
 public class functionsExamples {
     public static void  main ( String [] args ){
         Operations helper = new Operations() ;
