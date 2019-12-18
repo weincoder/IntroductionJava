@@ -1,6 +1,6 @@
 package dan.herr.san.intr.Session1;
 /*
-ava nos permite actualizar nuestras variables reutilizando los valores que tenían
+java nos permite actualizar nuestras variables reutilizando los valores que tenían
  anteriormente, de esta forma evitamos errores o inconsistencias en nuestro código:
  */
 public class UpdatingVariable {
